@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QUANLITHUVIENK45Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="KESACH">
+    <Key>
+      <PropertyRef Name="MaSach" />
+    </Key>
+    <Property Name="MaSach" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenTheLoaiSach" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PHIEUSACHes" Relationship="Self.FK_KESACH_PHIEU" FromRole="KESACH" ToRole="PHIEUSACH" />
+    <NavigationProperty Name="SACHes" Relationship="Self.FK_SACH_KESACH" FromRole="KESACH" ToRole="SACH" />
+  </EntityType>
+  <EntityType Name="PHIEUSACH">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaSach" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Hoten" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Diachi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Tensach" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Tinhtrang" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Thoigianmuon" Type="DateTime" Precision="3" />
+    <Property Name="Thoigiantra" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="KESACH" Relationship="Self.FK_KESACH_PHIEU" FromRole="PHIEUSACH" ToRole="KESACH" />
+  </EntityType>
+  <EntityType Name="SACH">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenSach" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="TacGia" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="MaSach" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="GiaSach" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SoLuong" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="NXB" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="KESACH" Relationship="Self.FK_SACH_KESACH" FromRole="SACH" ToRole="KESACH" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TAIKHOAN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenDangNhap" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="MatKhau" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_KESACH_PHIEU">
+    <End Role="KESACH" Type="Self.KESACH" Multiplicity="0..1" />
+    <End Role="PHIEUSACH" Type="Self.PHIEUSACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KESACH">
+        <PropertyRef Name="MaSach" />
+      </Principal>
+      <Dependent Role="PHIEUSACH">
+        <PropertyRef Name="MaSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SACH_KESACH">
+    <End Role="KESACH" Type="Self.KESACH" Multiplicity="0..1" />
+    <End Role="SACH" Type="Self.SACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KESACH">
+        <PropertyRef Name="MaSach" />
+      </Principal>
+      <Dependent Role="SACH">
+        <PropertyRef Name="MaSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QUANLITHUVIENK45Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="KESACHes" EntityType="Self.KESACH" />
+    <EntitySet Name="PHIEUSACHes" EntityType="Self.PHIEUSACH" />
+    <EntitySet Name="SACHes" EntityType="Self.SACH" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="TAIKHOANs" EntityType="Self.TAIKHOAN" />
+    <AssociationSet Name="FK_KESACH_PHIEU" Association="Self.FK_KESACH_PHIEU">
+      <End Role="KESACH" EntitySet="KESACHes" />
+      <End Role="PHIEUSACH" EntitySet="PHIEUSACHes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SACH_KESACH" Association="Self.FK_SACH_KESACH">
+      <End Role="KESACH" EntitySet="KESACHes" />
+      <End Role="SACH" EntitySet="SACHes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

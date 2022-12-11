@@ -1,0 +1,253 @@
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form2.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form2.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form2.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form2.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form2.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\C# QUANLYNHOM9 - ban goc - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\Admin\Documents\My Web Sites\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.PAGETHUVIEN.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGQUANLIADMIN.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.DANGKISACH.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.A.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\quản lí thư viện -để án cuối kì- nhómK45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.QLTHELOAI.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.A.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.PAGETHUVIEN.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.QLTHELOAI.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.AXOA.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.book.resources
+C:\Users\Admin\Documents\NHÓM WINFORM CUỐI KÌ K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.bookXOA.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.A.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.AXOA.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.book.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.bookXOA.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.PAGETHUVIEN.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.QLTHELOAI.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.A.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.AXOA.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.book.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.bookXOA.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.PAGETHUVIEN.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.QLTHELOAI.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.A.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.AXOA.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.book.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.bookXOA.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.PAGETHUVIEN.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.QLTHELOAI.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\ACER\OneDrive\Máy tính\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.A.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.AXOA.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.book.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.bookXOA.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.PAGETHUVIEN.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.QLTHELOAI.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\Admin\Documents\ĐỒ ÁN CUỐI KÌ NHÓM  K45 - Copy - Copy\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe.config
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.exe
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\QUANLYNHOM9.pdb
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.dll
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.xml
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.AssemblyReference.cache
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.SuggestedBindingRedirects.cache
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.A.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.AXOA.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.book.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.bookXOA.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.fACCOUNT.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Form1.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.PAGETHUVIEN.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.Properties.Resources.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.QLTHELOAI.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.TRANGCHINH.resources
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.GenerateResource.cache
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CoreCompileInputs.cache
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.csproj.CopyComplete
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.exe
+C:\Users\quoca\Source\Repos\PTUDGD\ĐỒ ÁN CUỐI KÌ NHÓM  K45\QUANLYNHOM9 - CopyRight - Copy\QUANLYNHOM9\obj\Debug\QUANLYNHOM9.pdb
